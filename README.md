@@ -1,6 +1,7 @@
+<script src="https://kit.fontawesome.com/85ec162d42.js" crossorigin="anonymous"></script>
 ## Hi there 👋 I'm VicooDi.
 I'm a gamedev / 3D artist you can see my programming projects here.
-- 🦋 **Find me on:** <a href=https://bsky.app/profile/vicoodi.bsky.social>bluesky</a>
+- <i class="fa-solid fa-person-digging"></i> **Website:** <a href=https://bsky.app/profile/vicoodi.bsky.social>website under construction</a>
 
 <hr>
 <h3 align="left">Equipment :</h3>
