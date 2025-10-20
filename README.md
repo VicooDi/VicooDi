@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm VicooDi.
 I'm a gamedev / 3D artist you can see my programming projects here.
-- **Website:** <a href=https://bsky.app/profile/vicoodi.bsky.social>website under construction</a>
+- **Website:** <a href="https://vicoodi.github.io/Portfolio">website under construction</a>
 
 <hr>
 <h3 align="left">Equipment :</h3>
