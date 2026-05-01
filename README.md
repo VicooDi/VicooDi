@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm VicooDi.
 I'm a gamedev / 3D artist you can see my programming projects here.
-- **visit my Website:** <mark><a href="https://vicoodi.github.io/Portfolio"><img src="./website_logo.png">here</img></a></mark>
+- **visit my Website:** <mark><a href="https://vicoodi.github.io/Portfolio"><img src="./website_logo.png"></img></a></mark>
 - **chekout my repositories and projects below ↓** ╰( ͡° ͜ʖ ͡° )つ──☆
 - **check my socials to connect!** (ﾉ◕ヮ◕)ﾉ*:・ﾟ✧
 
